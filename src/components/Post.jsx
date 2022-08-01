@@ -16,7 +16,7 @@ export function Post() {
         </div>
 
         <time title="31 de julho de 2022" dateTime="2022-07-31 08:10:00">
-          publicado
+          publicado há 1h
         </time>
       </header>
 
@@ -27,11 +27,12 @@ export function Post() {
           no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀
         </p>
         <p>
-          👉 <a href="#">jane.design/doctorcare</a>
+          👉{' '} <a href="#">jane.design/doctorcare</a>
         </p>
         <p>
-          {' '}
-          <a href="#">#novoprojeto #nlw #rocketseat</a>
+          <a href="#">#novoprojeto</a>{' '}
+          <a href="#">#nlw </a>{' '}
+          <a href="#">#rocketseat</a>
         </p>
       </div>
     </article>
