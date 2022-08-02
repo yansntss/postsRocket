@@ -76,7 +76,7 @@
 
 }
 
-.commentBox footer button:hover {
+.commentBox footer button:hover { 
   color: var(--green-300)
 }
 
